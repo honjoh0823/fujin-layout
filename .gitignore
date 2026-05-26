@@ -1,0 +1,7 @@
+# Debug logs
+L2-debug.log
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
