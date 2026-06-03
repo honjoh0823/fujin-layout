@@ -76,9 +76,11 @@ PC起動時に自動で起動させたい場合は、スタートアップフォ
 
 ## プロジェクト文書
 
+- [オープンソースとしての意義](OPEN_SOURCE_IMPACT.md)
 - [ベンチマークと研究メモ](BENCHMARKS.md)
 - [ロードマップ](ROADMAP.md)
 - [コントリビューションガイド](CONTRIBUTING.md)
+- [ガバナンス](GOVERNANCE.md)
 
 ## 関連プロジェクト
 
