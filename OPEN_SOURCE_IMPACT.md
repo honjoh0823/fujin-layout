@@ -32,8 +32,10 @@ Fujin Layout currently has:
 - An MIT License.
 - A public roadmap and contribution guide.
 - Issue templates for bug reports and accessibility feedback.
-- Initial personal benchmark data showing e-typing A rank 231 after roughly
-  one week of focused practice.
+- Initial personal benchmark data showing e-typing A+ rank 259 after roughly
+  two weeks of focused practice.
+- A public demo video of left-hand-only e-typing input:
+  https://www.youtube.com/watch?v=n7-D5fHuksI
 
 The project is early-stage, and that is exactly why open-source support can
 have high leverage now: better tooling, documentation, packaging, and

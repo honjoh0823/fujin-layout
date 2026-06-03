@@ -6,10 +6,28 @@ typing drills, not a large external user study yet.
 
 ## Current Result
 
-After roughly one week of practice at 2 to 3 hours per day, Fujin reached
-e-typing A rank with a score of 231 using left-hand-only input. This exceeds
+After roughly two weeks of practice at 2 to 3 hours per day, Fujin reached
+e-typing A+ rank with a score of 259 using left-hand-only input. This exceeds
 the commonly cited all-user average for two-handed QWERTY Japanese romaji
 typing, around 220 points.
+
+![e-typing score 259 with Fujin Layout](docs/assets/fujin-e-typing-259.webp)
+
+## Demo Video
+
+- YouTube: [片手タイピング e-typingスコア「A」231点](https://www.youtube.com/watch?v=n7-D5fHuksI)
+
+## Score Details
+
+From the current best screenshot:
+
+- Score: 259
+- Level: A+
+- Input time: 1:30.76
+- Input characters: 405
+- Mistyped characters: 4
+- WPM: 267.73
+- Accuracy: 99.01%
 
 ## What This Shows
 
@@ -30,5 +48,5 @@ typing, around 220 points.
 
 ## Related Research
 
-- Design article: https://note.com/_honjoh/n/nd629dd645255
+- Design article: https://note.com/honjoh_/n/nd629dd645255
 - Base layout: https://github.com/honjoh0823/yamato-layout
